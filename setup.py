@@ -1,7 +1,7 @@
 from setuptools import setup
 import platform
 
-version = '0.0.1'
+version = '1.0.0'
 packages = [
         'configuration',
         ]
@@ -12,7 +12,7 @@ setup(
     name='py-configuration',
     version=version,
     packages=packages,
-    license='MasTec proprietary',
+    license='LGPL',
     url='http://www.mastec.com/',
     author='Bob Uhl',
     author_email='robert.uhl@mastec.com',
